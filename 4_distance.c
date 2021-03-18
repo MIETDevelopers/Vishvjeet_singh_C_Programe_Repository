@@ -1,3 +1,4 @@
+made by vishvjeet singh
 #include<stdio.h>  
 #include<math.h>  
   
