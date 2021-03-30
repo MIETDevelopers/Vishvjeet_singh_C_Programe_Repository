@@ -17,3 +17,4 @@ int main()
     printf("Distance between (%0.2f, %0.2f) and (%0.2f, %0.2f) is %0.2f\n", x1, y1, x2, y2, distance);  
   
     return 0;  
+}
